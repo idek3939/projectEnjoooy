@@ -29,6 +29,8 @@ ExportedObj/
 *.pdb.meta
 
 # Unity3D Generated File On Crash Reports
+*.log
+*.pyc
 sysinfo.txt
 
 # Builds
